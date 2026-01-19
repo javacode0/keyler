@@ -1,14 +1,34 @@
 {
+  "games": [
+    {
+      "id": "gta5",
+      "name": "GTA V",
+      "imageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/271590/header.jpg"
+    },
+    {
+      "id": "skyrim",
+      "name": "Skyrim",
+      "imageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/72850/header.jpg"
+    },
+    {
+      "id": "minecraft",
+      "name": "Minecraft",
+      "imageUrl": "https://images.placeholders.dev/?width=800&height=400&text=Minecraft"
+    }
+  ],
   "mods": [
     {
       "modId": "m1",
-      "game": "GTA V",
+      "gameId": "skyrim",
+      "game": "Skyrim",
       "title": "Better HUD",
-      "summary": "Daha temiz HUD",
-      "tags": ["ui", "qol"],
-      "version": "1.0.0",
+      "summary": "Daha temiz HUD, ikon seti ve ölçeklenebilir arayüz.",
+      "tags": ["ui", "hud", "qol"],
+      "version": "1.2.0",
       "downloadUrl": "https://example.com/file.zip",
-      "updatedAt": "2026-01-20"
+      "updatedAt": "2026-01-20",
+      "downloads": 18240,
+      "trendingScore": 95
     }
   ]
 }
