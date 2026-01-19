@@ -9,11 +9,6 @@
       "id": "skyrim",
       "name": "Skyrim",
       "imageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/72850/header.jpg"
-    },
-    {
-      "id": "minecraft",
-      "name": "Minecraft",
-      "imageUrl": "https://images.placeholders.dev/?width=800&height=400&text=Minecraft"
     }
   ],
   "mods": [
