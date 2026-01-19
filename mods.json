@@ -1,0 +1,14 @@
+{
+  "mods": [
+    {
+      "modId": "m1",
+      "game": "GTA V",
+      "title": "Better HUD",
+      "summary": "Daha temiz HUD",
+      "tags": ["ui", "qol"],
+      "version": "1.0.0",
+      "downloadUrl": "https://example.com/file.zip",
+      "updatedAt": "2026-01-20"
+    }
+  ]
+}
