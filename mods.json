@@ -2,10 +2,19 @@
   {
     "id": "cool-mod",
     "name": "Cool Mod",
+    "description": "Açıklama...",
+    "image": "https://site.com/cool.png",
     "repo": "OWNER/REPO",
     "minAppVersion": "1.0.0",
-    "description": "…",
-    "image": "https://…/cover.png",
+    "installDir": "Mods"
+  },
+  {
+    "id": "fps-boost",
+    "name": "FPS Boost",
+    "description": "Performans ayarları...",
+    "image": "https://site.com/fps.png",
+    "repo": "OWNER/REPO2",
+    "minAppVersion": "1.0.0",
     "installDir": "Mods"
   }
 ]
