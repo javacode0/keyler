@@ -1,29 +1,11 @@
-{
-  "games": [
-    {
-      "id": "gta5",
-      "name": "GTA V",
-      "imageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/271590/header.jpg"
-    },
-    {
-      "id": "skyrim",
-      "name": "Skyrim",
-      "imageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/72850/header.jpg"
-    }
-  ],
-  "mods": [
-    {
-      "modId": "m1",
-      "gameId": "skyrim",
-      "game": "Skyrim",
-      "title": "Better HUD",
-      "summary": "Daha temiz HUD, ikon seti ve ölçeklenebilir arayüz.",
-      "tags": ["ui", "hud", "qol"],
-      "version": "1.2.0",
-      "downloadUrl": "https://example.com/file.zip",
-      "updatedAt": "2026-01-20",
-      "downloads": 18240,
-      "trendingScore": 95
-    }
-  ]
-}
+[
+  {
+    "id": "cool-mod",
+    "name": "Cool Mod",
+    "repo": "OWNER/REPO",
+    "minAppVersion": "1.0.0",
+    "description": "…",
+    "image": "https://…/cover.png",
+    "installDir": "Mods"
+  }
+]
