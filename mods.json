@@ -1,20 +1,60 @@
 [
   {
-    "id": "cool-mod",
-    "name": "Cool Mod",
-    "description": "Açıklama...",
-    "image": "https://site.com/cool.png",
-    "repo": "OWNER/REPO",
-    "minAppVersion": "1.0.0",
-    "installDir": "Mods"
+    "id": "winter-ui",
+    "name": "Winter UI Pack",
+    "description": "Kış temalı arayüz düzeni ve ekstra efektler.",
+    "image": "https://picsum.photos/seed/winterui/1200/600",
+    "category": "UI",
+    "tags": ["winter", "theme", "ui"],
+    "version": "1.2.0",
+    "updatedAt": "2026-01-15",
+    "author": "javacode0",
+    "downloadUrl": "https://example.com/winter-ui",
+    "screenshots": [
+      "https://picsum.photos/seed/winterui1/1200/700",
+      "https://picsum.photos/seed/winterui2/1200/700",
+      "https://picsum.photos/seed/winterui3/1200/700"
+    ],
+    "changelog": "- v1.2.0: Animasyonlar iyileştirildi\n- v1.1.0: Yeni ikonlar eklendi\n- v1.0.0: İlk sürüm",
+    "warnings": ["Bazı eski sürümlerde font uyumsuzluğu olabilir."],
+    "links": [
+      { "label": "Proje Sayfası", "url": "https://example.com/winter-ui" },
+      { "label": "Destek", "url": "https://example.com/support" }
+    ]
   },
   {
     "id": "fps-boost",
     "name": "FPS Boost",
-    "description": "Performans ayarları...",
-    "image": "https://site.com/fps.png",
-    "repo": "OWNER/REPO2",
-    "minAppVersion": "1.0.0",
-    "installDir": "Mods"
+    "description": "Performans ayarları ve optimizasyon presetleri.",
+    "image": "https://picsum.photos/seed/fpsboost/1200/600",
+    "category": "Performance",
+    "tags": ["fps", "boost", "performance"],
+    "version": "2.0.1",
+    "updatedAt": "2026-01-10",
+    "author": "ModTeam",
+    "link": "https://example.com/fps-boost",
+    "screenshots": [
+      "https://picsum.photos/seed/fpsboost1/1200/700",
+      "https://picsum.photos/seed/fpsboost2/1200/700"
+    ],
+    "changelog": "- v2.0.1: Stabilite düzeltmeleri\n- v2.0.0: Yeni preset sistemi",
+    "warnings": [],
+    "links": [{ "label": "Dokümantasyon", "url": "https://example.com/docs" }]
+  },
+  {
+    "id": "qol-pack",
+    "name": "QoL Pack",
+    "description": "Kalite-yaşam güncellemeleri: hızlı menüler, pratik kısayollar.",
+    "image": "https://picsum.photos/seed/qol/1200/600",
+    "category": "QoL",
+    "tags": ["qol", "shortcuts"],
+    "version": "0.9.3",
+    "updatedAt": "2026-01-05",
+    "author": "Community",
+    "downloadUrl": "https://example.com/qol-pack",
+    "screenshots": [],
+    "changelog": "",
+    "warnings": ["Beta sürüm: bazı özellikler değişebilir."],
+    "links": []
   }
 ]
