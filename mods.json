@@ -1,4 +1,49 @@
 {
-  "games": [],
-  "mods": []
+  "games": [
+    {
+      "id": "robloxscript",
+      "name": "roblox Script",
+      "image": "https://lutris.net/media/games/screenshots/d66ae37d46e00a1ecacfe9531986690a.jpg",
+      "tags": [
+        "Roblox",
+        "Script"
+      ]
+    }
+  ],
+  "mods": [
+    {
+      "id": "robloxscript",
+      "gameId": "robloxscript",
+      "name": "Fish it Free Version",
+      "description": "Bu komut dosyası, anahtar gerektirmeden ücretsiz olarak kullanılabilir.",
+      "image": "https://pbs.twimg.com/media/G56oHc9XcAAP3SY.jpg",
+      "category": "Roblox,Script,Fist-İt,Menu,Free",
+      "tags": [
+        "Roblox",
+        "Script",
+        "Fist-İt",
+        "Menu",
+        "Free"
+      ],
+      "version": "1.0.0",
+      "updatedAt": "2026-01-21T01:22:40Z",
+      "author": "717exe",
+      "openUrl": "https://rscripts.net/script/fish-it-free-version-or-717exe-Qfxv",
+      "screenshots": [
+        "https://i.ytimg.com/vi/k1qmVdAcioQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBkdQeC6GrdgKwaBOCBdd04NDzBQg",
+        "https://i.ytimg.com/vi/igWoLrRf7Oc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCgBTm5RbOlR2LWGlupUfGAWnrlUg"
+      ],
+      "links": [
+        {
+          "label": "Discord",
+          "url": "https://discord.gg/GnRjkKzXK8"
+        }
+      ],
+      "warnings": [
+        "Telefonda denenmedi."
+      ],
+      "changelog": "",
+      "relatedIds": []
+    }
+  ]
 }
