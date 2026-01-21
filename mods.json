@@ -83,24 +83,24 @@
       "links": []
     },
     {
-      "id": "ultra-graphics",
-      "gameId": "skyrim",
-      "name": "Ultra Graphics",
-      "description": "Grafik preset + texture önerileri paketi.",
-      "image": "https://picsum.photos/seed/mod_gfx/1200/600",
-      "category": "Graphics",
-      "tags": ["graphics", "textures", "reshade"],
+      "id": "wartycoon",
+      "gameId": "roblox",
+      "name": "War tycoon script menu NEW",
+      "description": "yep yeni menü tasarımıyla war tycoon script",
+      "image": "https://tr.rbxcdn.com/180DAY-4ed92077f0f5cf275bae4531f2495e0e/384/216/Image/Jpeg/noFilter",
+      "category": "cheat",
+      "tags": ["cheat", "menu", "script"],
       "version": "3.4.2",
-      "updatedAt": "2026-01-18",
-      "author": "VisualLab",
+      "updatedAt": "2026-01-21",
+      "author": "Javacode",
       "url": "https://example.com/ultra-graphics",
       "screenshots": [
-        "https://picsum.photos/seed/gfx1/1200/700",
-        "https://picsum.photos/seed/gfx2/1200/700"
+        "https://tr.rbxcdn.com/180DAY-b96fe9f531ddf958e6ba5d3bcaa3ff86/768/432/Image/Webp/noFilter",
+        "https://tr.rbxcdn.com/180DAY-89fbc21bdf90bc3923de7e35c50499d0/768/432/Image/Webp/noFilter"
       ],
-      "changelog": "- v3.4.2: Yeni shader ayarları\n- v3.4.0: Preset güncellemesi",
-      "warnings": ["Orta-alt sistemlerde FPS düşebilir."],
-      "links": [{ "label": "Kurulum", "url": "https://example.com/setup" }],
+      "changelog": "- v1.0.1: Yeni menü script\n- v3.4.0: Preset güncellemesi",
+      "warnings": ["Telefonlarda çalışmaz."],
+      "links": [{ "label": "İndir", "url": "https://www.roblox.com/tr/games/4639625707/War-Tycoon" }],
       "relatedIds": []
     }
   ]
