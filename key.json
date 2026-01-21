@@ -1,15 +1,7 @@
 {
+  "messages": [],
+  "banner": null,
   "theme": {
     "preset": "frost"
-  },
-  "messages": [
-    "Koleksiyonlar • Oyunlar • Modlar • Favoriler ⭐",
-    "İndir butonu bağlantıyı tarayıcıda açar",
-    "Ocak modu: kar efekti ❄️"
-  ],
-  "banner": {
-    "level": "info",
-    "title": "Duyuru",
-    "text": "Yeni War Tycoon scripti yayınlandı."
-  }, 
+  }
 }
