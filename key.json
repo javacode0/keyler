@@ -1,7 +1,31 @@
 {
+  "theme": {
+    "preset": "frost"
+  },
   "messages": [
-    "Katalog • Kartlar • Detay • Favoriler ⭐",
-    "İndir butonu linki tarayıcıda açar",
+    "Koleksiyonlar • Oyunlar • Modlar • Favoriler ⭐",
+    "İndir butonu bağlantıyı tarayıcıda açar",
     "Ocak modu: kar efekti ❄️"
+  ],
+  "banner": {
+    "level": "info",
+    "title": "Duyuru",
+    "text": "Yeni koleksiyonlar eklendi! Kütüphaneye göz at."
+  },
+  "collections": [
+    {
+      "id": "starter-mc",
+      "name": "Minecraft Starter Pack",
+      "description": "Yeni başlayanlar için önerilen set.",
+      "gameId": "minecraft",
+      "modIds": ["winter-ui", "fps-boost"]
+    },
+    {
+      "id": "skyrim-visuals",
+      "name": "Skyrim Visuals",
+      "description": "Görsel ağırlıklı öneriler.",
+      "gameId": "skyrim",
+      "modIds": ["ultra-graphics"]
+    }
   ]
 }
