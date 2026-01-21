@@ -1,14 +1,13 @@
 {
   "messages": [
-    "Neon tema aktif",
-    "Yeni sezon arayüzü"
+    "Bakım çalışması sürüyor"
   ],
   "banner": {
-    "level": "info",
-    "title": "Tema Güncellendi",
-    "text": "Neon tema yayında! Ayarlardan kar efektini kapatabilirsin."
+    "level": "error",
+    "title": "Geçici Sorun",
+    "text": "Bazı linkler şu anda açılamıyor. Daha sonra tekrar dene."
   },
   "theme": {
-    "preset": "neon"
+    "preset": "frost"
   }
 }
