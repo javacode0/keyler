@@ -1,15 +1,14 @@
 {
   "messages": [
-    "Yeni modlar eklendi",
-    "Roblox Script koleksiyonu güncellendi",
-    "Favori sistemini kullanmayı unutma ⭐"
+    "Neon tema aktif",
+    "Yeni sezon arayüzü"
   ],
   "banner": {
     "level": "info",
-    "title": "Duyuru",
-    "text": "Fish It Free Version aktif! Güncellemeleri kaçırmamak için takipte kal."
+    "title": "Tema Güncellendi",
+    "text": "Neon tema yayında! Ayarlardan kar efektini kapatabilirsin."
   },
   "theme": {
-    "preset": "frost"
+    "preset": "neon"
   }
 }
