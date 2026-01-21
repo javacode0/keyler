@@ -13,10 +13,10 @@
       "tags": ["openworld", "action"]
     },
     {
-      "id": "skyrim",
-      "name": "Skyrim",
-      "image": "https://picsum.photos/seed/game_skyrim/900/450",
-      "tags": ["rpg", "fantasy"]
+      "id": "roblox",
+      "name": "Roblox",
+      "image": "https://lutris.net/media/games/screenshots/d66ae37d46e00a1ecacfe9531986690a.jpg",
+      "tags": ["fun", "fantasy"]
     }
   ],
   "mods": [
