@@ -1,0 +1,6 @@
+{
+  "keys": [
+    {"key": "ABC-123", "duration_hours": 72},
+    {"key": "DEF-456", "expires_at": "2026-02-01T00:00:00Z"}
+  ]
+}
