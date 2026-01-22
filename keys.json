@@ -1,7 +1,1 @@
-{
-  "meta": { "app": "Nova X", "version": "1.0" },
-  "keys": [
-    { "key": "ABC-123", "duration_hours": 72, "plan_name": "Pro" }
-  ],
-  "blocked_keys": ["BANNED-1", "BANNED-2"]
-}
+ABCD-1234-EFGH|2026-12-31 23:59:59
