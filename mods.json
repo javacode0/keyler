@@ -8,6 +8,16 @@
         "Roblox",
         "Script"
       ]
+    },
+    {
+      "id": "cs2",
+      "name": "Counter-Strike 2",
+      "image": "https://www.csgoroll.com/blog/content/images/size/w2000/2025/01/counter-strike-2-pc-game-steam-cover.jpg",
+      "tags": [
+        "cs2",
+        "hile",
+        "menu"
+      ]
     }
   ],
   "mods": [
@@ -47,4 +57,3 @@
     }
   ]
 }
-
