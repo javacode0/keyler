@@ -15,8 +15,7 @@
       "image": "https://www.csgoroll.com/blog/content/images/size/w2000/2025/01/counter-strike-2-pc-game-steam-cover.jpg",
       "tags": [
         "cs2",
-        "hile",
-        "menu"
+        "hile"
       ]
     }
   ],
@@ -53,6 +52,27 @@
         "Telefonda denenmedi."
       ],
       "changelog": "",
+      "relatedIds": []
+    },
+    {
+      "id": "sharkhack",
+      "gameId": "cs2",
+      "name": "sharkhack cs2",
+      "description": "SharkHack creates next-level CS2 enhancement and skinchanger solutions that redefine customization and control.",
+      "image": "https://www.sharkhack.net/assets/JEZKYotV3RQdwj3Z2tghr4ZfMA.png?width=857&height=656",
+      "category": "cs2,hile,free",
+      "tags": [],
+      "version": "2.0.0",
+      "updatedAt": "2026-01-22T11:41:27Z",
+      "author": "sharkhack",
+      "openUrl": "https://www.sharkhack.net/",
+      "screenshots": [
+        "https://framerusercontent.com/images/WZdlx3pTFB2HIOu64pLLH8yWpI.png?scale-down-to=512&width=640&height=491",
+        "https://framerusercontent.com/images/BFKP6NpTnZmJoqJzHZqql9AIY.png?scale-down-to=512&width=855&height=657"
+      ],
+      "links": [],
+      "warnings": [],
+      "changelog": "Skinchanger",
       "relatedIds": []
     }
   ]
