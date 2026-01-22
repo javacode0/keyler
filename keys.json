@@ -1,6 +1,44 @@
 {
+  "meta": {
+    "app": "Nova X",
+    "version": "1.0",
+    "updated_at": "2026-01-22T12:00:00Z",
+    "note": "Nova X lisans anahtarları"
+  },
   "keys": [
-    {"key": "ABC-123", "duration_hours": 72},
-    {"key": "DEF-456", "expires_at": "2026-02-01T00:00:00Z"}
+    {
+      "key": "NOVA-X-TRIAL-001",
+      "duration_hours": 24,
+      "plan_name": "Trial",
+      "note": "24 saat deneme"
+    },
+    {
+      "key": "NOVA-X-BASIC-7D",
+      "duration_hours": 168,
+      "plan_name": "Basic",
+      "note": "7 günlük lisans"
+    },
+    {
+      "key": "NOVA-X-PRO-30D",
+      "duration_hours": 720,
+      "plan_name": "Pro",
+      "note": "30 günlük lisans"
+    },
+    {
+      "key": "NOVA-X-ULTIMATE-90D",
+      "duration_hours": 2160,
+      "plan_name": "Ultimate",
+      "note": "90 günlük premium"
+    },
+    {
+      "key": "NOVA-X-LIFETIME-001",
+      "expires_at": "2099-12-31T23:59:59Z",
+      "plan_name": "Lifetime",
+      "note": "Süresiz lisans"
+    }
+  ],
+  "blocked_keys": [
+    "NOVA-X-BANNED-0001",
+    "NOVA-X-BANNED-0002"
   ]
 }
